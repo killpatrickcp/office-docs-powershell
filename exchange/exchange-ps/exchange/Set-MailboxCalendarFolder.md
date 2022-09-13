@@ -120,6 +120,7 @@ The DetailLevel parameter specifies the level of calendar detail that's publishe
 
 - AvailabilityOnly (This is the default value)
 - LimitedDetails
+- Reviewer
 - FullDetails
 - Editor
 
